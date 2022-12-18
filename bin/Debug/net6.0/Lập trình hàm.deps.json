@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Lập trình hàm/1.0.0": {
+        "runtime": {
+          "Lập trình hàm.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Lập trình hàm/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

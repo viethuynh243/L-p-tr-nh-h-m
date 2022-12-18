@@ -1,0 +1,34 @@
+C:\Users\Admin\OneDrive - Hanoi University of Science and Technology\Documents\Lập trình hàm\Lập trình hàm\bin\Debug\net6.0\Lập trình hàm.exe
+C:\Users\Admin\OneDrive - Hanoi University of Science and Technology\Documents\Lập trình hàm\Lập trình hàm\bin\Debug\net6.0\Lập trình hàm.deps.json
+C:\Users\Admin\OneDrive - Hanoi University of Science and Technology\Documents\Lập trình hàm\Lập trình hàm\bin\Debug\net6.0\Lập trình hàm.runtimeconfig.json
+C:\Users\Admin\OneDrive - Hanoi University of Science and Technology\Documents\Lập trình hàm\Lập trình hàm\bin\Debug\net6.0\Lập trình hàm.dll
+C:\Users\Admin\OneDrive - Hanoi University of Science and Technology\Documents\Lập trình hàm\Lập trình hàm\bin\Debug\net6.0\Lập trình hàm.pdb
+C:\Users\Admin\OneDrive - Hanoi University of Science and Technology\Documents\Lập trình hàm\Lập trình hàm\obj\Debug\net6.0\Lập trình hàm.csproj.AssemblyReference.cache
+C:\Users\Admin\OneDrive - Hanoi University of Science and Technology\Documents\Lập trình hàm\Lập trình hàm\obj\Debug\net6.0\Lập trình hàm.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\OneDrive - Hanoi University of Science and Technology\Documents\Lập trình hàm\Lập trình hàm\obj\Debug\net6.0\Lập trình hàm.AssemblyInfoInputs.cache
+C:\Users\Admin\OneDrive - Hanoi University of Science and Technology\Documents\Lập trình hàm\Lập trình hàm\obj\Debug\net6.0\Lập trình hàm.AssemblyInfo.cs
+C:\Users\Admin\OneDrive - Hanoi University of Science and Technology\Documents\Lập trình hàm\Lập trình hàm\obj\Debug\net6.0\Lập trình hàm.csproj.CoreCompileInputs.cache
+C:\Users\Admin\OneDrive - Hanoi University of Science and Technology\Documents\Lập trình hàm\Lập trình hàm\obj\Debug\net6.0\Lập trình hàm.dll
+C:\Users\Admin\OneDrive - Hanoi University of Science and Technology\Documents\Lập trình hàm\Lập trình hàm\obj\Debug\net6.0\refint\Lập trình hàm.dll
+C:\Users\Admin\OneDrive - Hanoi University of Science and Technology\Documents\Lập trình hàm\Lập trình hàm\obj\Debug\net6.0\Lập trình hàm.pdb
+C:\Users\Admin\OneDrive - Hanoi University of Science and Technology\Documents\Lập trình hàm\Lập trình hàm\obj\Debug\net6.0\Lập trình hàm.genruntimeconfig.cache
+C:\Users\Admin\OneDrive - Hanoi University of Science and Technology\Documents\Lập trình hàm\Lập trình hàm\obj\Debug\net6.0\ref\Lập trình hàm.dll
+C:\Users\Admin\OneDrive - Hanoi University of Science and Technology\Documents\Lập trình hàm\Lập trình hàm\bin\Debug\net6.0\Danh sách chuyến bay.txt
+C:\Users\Admin\OneDrive - Hanoi University of Science and Technology\Documents\Lập trình hàm\Lập trình hàm\bin\Debug\net6.0\Danh sách khách hàng.txt
+D:\learn\202201\Lập trình hướng đối tượng\Lập trình hàm\Lập trình hàm\bin\Debug\net6.0\Lập trình hàm.exe
+D:\learn\202201\Lập trình hướng đối tượng\Lập trình hàm\Lập trình hàm\bin\Debug\net6.0\Danh sách chuyến bay.txt
+D:\learn\202201\Lập trình hướng đối tượng\Lập trình hàm\Lập trình hàm\bin\Debug\net6.0\Danh sách khách hàng.txt
+D:\learn\202201\Lập trình hướng đối tượng\Lập trình hàm\Lập trình hàm\bin\Debug\net6.0\Lập trình hàm.deps.json
+D:\learn\202201\Lập trình hướng đối tượng\Lập trình hàm\Lập trình hàm\bin\Debug\net6.0\Lập trình hàm.runtimeconfig.json
+D:\learn\202201\Lập trình hướng đối tượng\Lập trình hàm\Lập trình hàm\bin\Debug\net6.0\Lập trình hàm.dll
+D:\learn\202201\Lập trình hướng đối tượng\Lập trình hàm\Lập trình hàm\bin\Debug\net6.0\Lập trình hàm.pdb
+D:\learn\202201\Lập trình hướng đối tượng\Lập trình hàm\Lập trình hàm\obj\Debug\net6.0\Lập trình hàm.csproj.AssemblyReference.cache
+D:\learn\202201\Lập trình hướng đối tượng\Lập trình hàm\Lập trình hàm\obj\Debug\net6.0\Lập trình hàm.GeneratedMSBuildEditorConfig.editorconfig
+D:\learn\202201\Lập trình hướng đối tượng\Lập trình hàm\Lập trình hàm\obj\Debug\net6.0\Lập trình hàm.AssemblyInfoInputs.cache
+D:\learn\202201\Lập trình hướng đối tượng\Lập trình hàm\Lập trình hàm\obj\Debug\net6.0\Lập trình hàm.AssemblyInfo.cs
+D:\learn\202201\Lập trình hướng đối tượng\Lập trình hàm\Lập trình hàm\obj\Debug\net6.0\Lập trình hàm.csproj.CoreCompileInputs.cache
+D:\learn\202201\Lập trình hướng đối tượng\Lập trình hàm\Lập trình hàm\obj\Debug\net6.0\Lập trình hàm.dll
+D:\learn\202201\Lập trình hướng đối tượng\Lập trình hàm\Lập trình hàm\obj\Debug\net6.0\refint\Lập trình hàm.dll
+D:\learn\202201\Lập trình hướng đối tượng\Lập trình hàm\Lập trình hàm\obj\Debug\net6.0\Lập trình hàm.pdb
+D:\learn\202201\Lập trình hướng đối tượng\Lập trình hàm\Lập trình hàm\obj\Debug\net6.0\Lập trình hàm.genruntimeconfig.cache
+D:\learn\202201\Lập trình hướng đối tượng\Lập trình hàm\Lập trình hàm\obj\Debug\net6.0\ref\Lập trình hàm.dll

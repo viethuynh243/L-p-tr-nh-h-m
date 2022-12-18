@@ -1,0 +1,59 @@
+﻿//
+Các bạn không tuỳ í nhập tự nhập dữ liệu vào file Danh sách chuyến bay và Danh sách khách hàng nhé
+//
+Cách thức hoạt động của chương trình:
+//
+	Khi khởi động chương trình bạn sẽ phải xác nhận thông tin của bản thân 
+	bằng cách trả lời câu hỏi bạn là ai
+//
+Sau đó tuỳ với từng câu trả lời bạn sẽ có những chức năng khác nhau
+//
+Một số lưu ý nếu bạn muốn sửa dữ liệu trong các file Danh sách chuyến bay và Danh sách khách hàng
+//
+	Khi nhập dữ liệu vào file Danh sách chuyến bay:
+Dòng 1: ID của chuyến bay
+Dòng 2: Tên chuyến bay
+Dòng 3: Ngày bay
+Dòng 4: Giá vé
+Dòng 5: Để trống không viết gì
+//
+Sau đó bạn có thể tiếp tục nhập các chuyến bay khác theo câu trúc nêu trên
+//
+Ví dụ
+1
+Hà Nội - Thành phố HCM
+2/9/2022 9:00:00 AM
+2000000
+
+//
+	Khi nhập dữ liệu vào file Danh sách khách hàng
+Dòng 1: Mã khách hàng // Chú ý: Mã khách hàng sẽ không được trùng nhau
+								Nếu nhập trùng nhau chương trình sẽ tự động cập nhật mã mới
+Dòng 2: Họ tên khách hàng
+Dòng 3: Giới tính
+Dòng 4: Tuổi
+Dòng 5: Kể từ dòng này sẽ viết tên tất cả các chuyến bay của khách hàng đó
+		Mỗi chuyến bay sẽ được viết trên 1 dòng
+Dòng tiếp theo: Để trống không viết gì
+//
+Sau đó bạn có thể tiếp tục nhập các khách hàng khác theo câu trúc nêu trên
+//
+Ví dụ
+4
+Nguyễn Văn Quốc
+Nam
+20
+Cần Thơ - Thành phố HCM
+Hà Nội - Cần Thơ
+
+//
+	Đặc biệt là file Danh sách chuyến bay và Danh sách khách hàng sẽ được tự động cập nhật liên tục
+	theo danh sách khách hàng và danh sách chuyến bay của chương trình
+//
+	Chính vì vậy mọi thao tác khi bạn thực hiện vào chương trình của bạn sẽ đều được lưu lại
+	và sau khi chạy lại chương trình, chương trình sẽ lấy dữ liệu từ lần chạy trước đó
+//
+Khi sử dụng bạn muốn xem mã khách hàng thì có thể truy cập vào file Danh sách khách hàng
+Còn nếu bạn muốn xem tên hãng bay thì hãy nhớ tên hãng bay là: "QGT 0912"
+//
+QGT 0912
